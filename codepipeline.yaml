@@ -7,7 +7,7 @@ Parameters:
 
   GitHubOwner:
     Type: String
-    Default: vinay.gullapalli #replace with your github username
+    Default: vinaygullapalli #replace with your github username
     AllowedPattern: "[A-Za-z0-9-]+"
 
   RepositoryName:
